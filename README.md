@@ -29,6 +29,7 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 - 🔧 Writing clean, maintainable code
 
 **Education:** [ CS Graduate — Benha University (GPA: 3.65 / 4)]
+<br/>
 **Based:** Egypt 🇪🇬 | **Experience:** [1 year]
 
 ---
@@ -68,14 +69,14 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 A brief description of what this project does and its purpose.
 - **Tech Stack:** React, Tailwind CSS, APIs
 - **Features:** ✨ checkout ✨ Shopping cart
-- **Live Demo:** [Link]([https://project-one-demo.com](https://ecommerce-app-3u13.vercel.app/)
+- **Live Demo:** [([https://project-one-demo.com](https://ecommerce-app-3u13.vercel.app/)]
 
 
 ### 🚀 [Posts App](https://github.com/fatmamorad/Posts-App)
 Another project showcasing My skills and experience.
 - **Tech Stack:** Next.js, TypeScript, APIs, Tailwind Css
 - **Features:** ✨ Add Post, ✨Delete Post ✨ Show Posts
-- **Live Demo:** [Link]([https://project-three-demo.com](https://posts-app-blue.vercel.app/#/Login))
+- **Live Demo:** [https://project-three-demo.com](https://posts-app-blue.vercel.app/#/Login]
 
 
 
