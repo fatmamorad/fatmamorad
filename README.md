@@ -97,10 +97,7 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 - 📊 Data Visualization Libraries
 - ♿ Web Accessibility Standards (WCAG A11y)
 - 🔐 Web Security Best Practices
-## 📫 Let's Connect!
-
-I love talking about web development, design, and new technologies. Reach out to me:
-
+## 🐍 Contribution Snake
 
 <div align="center">
 
