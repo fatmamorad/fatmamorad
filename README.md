@@ -75,17 +75,17 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-[![Fatma 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatma Mourad)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hafzfatma-mourad&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmamourad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamourad&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amr-hafz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
