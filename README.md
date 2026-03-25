@@ -130,6 +130,6 @@ Feel free to reach out for any opportunities!
 
 ⭐ If you find something interesting, don't forget to give it a star!
 
-![Made with Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Fatma%SMourad-red)
+![Made with Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Fatma%20Mourad-red)
 
 </div>
