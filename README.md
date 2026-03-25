@@ -126,7 +126,7 @@ Feel free to reach out for any opportunities!
 
 <div align="center">
 
-**Thanks for visiting my profile! 🙏**
+**Thanks for visiting my profile! 🤝**
 
 ⭐ If you find something interesting, don't forget to give it a star!
 
