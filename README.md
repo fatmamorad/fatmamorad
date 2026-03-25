@@ -63,23 +63,15 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 
 
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒[Ecommerce Website]([https://github.com/yourprofile/project1](https://github.com/fatmamorad/Ecommerce_APP))
-A brief description of what this project does and its purpose.
-- **Tech Stack:** React, Tailwind CSS, APIs
-- **Features:** ✨ checkout ✨ Shopping cart
-- **Live Demo:** [Demo](https://project-one-demo.com)
+| Project | Description | Tech |
+|---|---|---|
+| 🎬 [**Cinema Booking App**](https://github.com/FullStack-Team-route/Cinema-Booking-App-Frontend) | Next-Gen Cinema Booking System with Actionable AI | .Tailwind CSS .React Hook Form .Zod .Shadcn |
+| 🛒 [**E-Commerce Website**]([https://github.com/amr-hafz/ECommerce-Chairs](https://github.com/fatmamorad/Ecommerce_APP)) | Ecommerce App is a full-featured React e-commerce platform that enables users to browse products, add items to cart, manage user profiles, and complete secure checkout with payment processing. | .React .TypeScript  .TanStack Quary |
+| 📚 [**Posts App**](https://github.com/fatmamorad/Posts-App) | Posts App is a simple React-based web application that allows users to create, edit, and delete posts. It features user authentication and a responsive UI deployed on Vercel. | .Next Js · Type script  |
 
-
-### 🚀 [Posts App](https://github.com/fatmamorad/Posts-App)
-Another project showcasing My skills and experience.
-- **Tech Stack:** Next.js, TypeScript, APIs, Tailwind Css
-- **Features:** ✨ Add Post, ✨Delete Post ✨ Show Posts
-- **Live Demo:** [Demo](https://posts-app-blue.vercel.app/#/Login)
-
-
-
+---
 ## 🎓 Currently Learning
 
 - 🔄 Advanced React Patterns & Performance Optimization
