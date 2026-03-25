@@ -85,7 +85,7 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatmamourad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
