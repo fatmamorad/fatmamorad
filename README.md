@@ -102,7 +102,11 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 I love talking about web development, design, and new technologies. Reach out to me:
 
 
+<div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/fatmamourad/fatmamourad/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 ---
 
 ## 💡 My Coding Philosophy
@@ -129,6 +133,6 @@ Feel free to reach out for any opportunities!
 
 ⭐ If you find something interesting, don't forget to give it a star!
 
-![Made with Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-YourName-red)
+![Made with Love](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Fatma Mourad-red)
 
 </div>
