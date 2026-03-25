@@ -1,8 +1,9 @@
-# 👋 Hi, I'm [Fatma Mourad]
 
 <div align="center">
   
-  ### Frontend Developer | Teaching Assistant @ AASTMT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Fatma+Mourad;.NET+Full+Stack+Developer;Teaching+Assistant;1+Year+Experience+%7C+10%2B+Projects" alt="Typing SVG" />
+
+<br/>
   
   ✨ Building Beautiful & Interactive User Interfaces | Crafting Digital Experiences
   
