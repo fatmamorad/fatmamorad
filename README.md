@@ -67,9 +67,27 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 [**Cinema Booking App**](https://github.com/FullStack-Team-route/Cinema-Booking-App-Frontend) | Next-Gen Cinema Booking System with Actionable AI | .Tailwind CSS .React Hook Form .Zod .Shadcn |
-| 🛒 [**E-Commerce Website**]([https://github.com/amr-hafz/ECommerce-Chairs](https://github.com/fatmamorad/Ecommerce_APP)) | Ecommerce App is a full-featured React e-commerce platform that enables users to browse products, add items to cart, manage user profiles, and complete secure checkout with payment processing. | .React .TypeScript  .TanStack Quary |
+| 🎬 [**Cinema Booking App**](https://cinema-booking-app-frontend.vercel.app/) | Next-Gen Cinema Booking System with Actionable AI | .Tailwind CSS .React Hook Form .Zod .Shadcn |
+| 🛒 [**E-Commerce Website**](https://github.com/fatmamorad/Ecommerce_APP) | Ecommerce App is a full-featured React e-commerce platform that enables users to browse products, add items to cart, manage user profiles, and complete secure checkout with payment processing. | .React .TypeScript  .TanStack Quary |
 | 📚 [**Posts App**](https://github.com/fatmamorad/Posts-App) | Posts App is a simple React-based web application that allows users to create, edit, and delete posts. It features user authentication and a responsive UI deployed on Vercel. | .Next Js · Type script  |
+
+---
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Fatma 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatma Mourad)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hafzfatma-mourad&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amr-hafz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 ## 🎓 Currently Learning
