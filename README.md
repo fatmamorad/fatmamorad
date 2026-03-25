@@ -28,7 +28,7 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 - 🧠 Learning new technologies and best practices
 - 🔧 Writing clean, maintainable code
 
-**Education:** [ CS Graduate — Benha University (GPA: 3.785 / 4)]
+**Education:** [ CS Graduate — Benha University (GPA: 3.65 / 4)]
 **Based:** Egypt 🇪🇬 | **Experience:** [1 year]
 
 ---
@@ -64,23 +64,18 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful inter
 
 ## 🌟 Featured Projects
 
-### 🎯 [Project Name One](https://github.com/yourprofile/project1)
+### 🛒[Ecommerce Website]([https://github.com/yourprofile/project1](https://github.com/fatmamorad/Ecommerce_APP))
 A brief description of what this project does and its purpose.
-- **Tech Stack:** React, Tailwind CSS, Firebase
-- **Features:** ✨ Feature One, ✨ Feature Two, ✨ Feature Three
-- **Live Demo:** [Link](https://project-one-demo.com)
+- **Tech Stack:** React, Tailwind CSS, APIs
+- **Features:** ✨ checkout ✨ Shopping cart
+- **Live Demo:** [Link]([https://project-one-demo.com](https://ecommerce-app-3u13.vercel.app/)
 
-### 🎨 [Project Name Two](https://github.com/yourprofile/project2)
-Description of the second project and what makes it special.
-- **Tech Stack:** Vue.js, SCSS, Node.js, MongoDB
-- **Features:** ✨ Feature One, ✨ Feature Two
-- **Live Demo:** [Link](https://project-two-demo.com)
 
-### 🚀 [Project Name Three](https://github.com/yourprofile/project3)
-Another project showcasing your skills and experience.
-- **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL
-- **Features:** ✨ Feature One, ✨ Feature Two, ✨ Feature Three
-- **Live Demo:** [Link](https://project-three-demo.com)
+### 🚀 [Posts App](https://github.com/fatmamorad/Posts-App)
+Another project showcasing My skills and experience.
+- **Tech Stack:** Next.js, TypeScript, APIs, Tailwind Css
+- **Features:** ✨ Add Post, ✨Delete Post ✨ Show Posts
+- **Live Demo:** [Link]([https://project-three-demo.com](https://posts-app-blue.vercel.app/#/Login))
 
 
 
