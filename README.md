@@ -104,7 +104,7 @@ I love talking about web development, design, and new technologies. Reach out to
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/fatmamourad/fatmamourad/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/fatmamorad/fatmamorad/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 ---
